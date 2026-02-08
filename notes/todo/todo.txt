@@ -2,11 +2,15 @@
 
 ### TODO
 - [x] Importar sprites
-- [ ] Criar objetos iniciais
+- [x] Criar objetos iniciais
 - [x] Criar room do jogo
 - [x] Definir a resolução do jogo
 - [x] Criar objeto de chão
 - [x] Fazer o player "andar"
+- [ ] Musica sfx do jogo
+- [ ] Pontuação do jogo
+- [ ] Spawner somente para o CLT
+- [ ] Mostrar historia no inicio do jogo
 
 ### Ideia do jogo
   
