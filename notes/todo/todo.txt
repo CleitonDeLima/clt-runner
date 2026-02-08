@@ -1,0 +1,16 @@
+# CLT Runner
+
+### TODO
+- [x] Importar sprites
+- [ ] Criar objetos iniciais
+- [x] Criar room do jogo
+- [x] Definir a resolução do jogo
+- [x] Criar objeto de chão
+- [x] Fazer o player "andar"
+
+### Ideia do jogo
+  
+- O player anda pela parede, o chão é nos lados da tela.
+- Vai ser preciso criar um objeto de colisão pro player andar.
+- Ele pode pular de um lado para o outro apertando uma tecla.
+- A gravidade do jogo é aplicada no eixo x e ela pode ser invertida para os lados direitos o esquerdo.
