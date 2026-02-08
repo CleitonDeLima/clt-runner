@@ -8,7 +8,7 @@
 - [x] Criar objeto de chão
 - [x] Fazer o player "andar"
 - [x] Musica sfx do jogo
-- [ ] Pontuação do jogo
+- [x] Pontuação do jogo
 - [ ] Spawner somente para o CLT
 - [ ] Mostrar historia no inicio do jogo
 

@@ -37,6 +37,7 @@
   },
   "name":"CLT Runner",
   "resources":[
+    {"id":{"name":"fnt_points","path":"fonts/fnt_points/fnt_points.yy",},},
     {"id":{"name":"todo","path":"notes/todo/todo.yy",},},
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},},
@@ -44,6 +45,7 @@
     {"id":{"name":"obj_spawner_item","path":"objects/obj_spawner_item/obj_spawner_item.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},
     {"id":{"name":"snd_pickup","path":"sounds/snd_pickup/snd_pickup.yy",},},
     {"id":{"name":"snd_wave","path":"sounds/snd_wave/snd_wave.yy",},},
     {"id":{"name":"spr_burger","path":"sprites/spr_burger/spr_burger.yy",},},
