@@ -1,3 +1,5 @@
+// @description Acomula pontuação
+
 // Acomula a pontuação
 global.points++;
-alarm[0] = game_get_speed(gamespeed_fps);
+alarm[0] = get_seconds();

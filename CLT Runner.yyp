@@ -42,7 +42,6 @@
     {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"obj_spawner_item","path":"objects/obj_spawner_item/obj_spawner_item.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"scr_globals","path":"scripts/scr_globals/scr_globals.yy",},},
