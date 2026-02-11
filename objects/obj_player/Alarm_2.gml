@@ -5,4 +5,4 @@ var _dir = _pos[1];
 
 create_clt(_x, -20, _dir);
 
-alarm[2] = get_seconds(irandom_range(1, 4));
+alarm[2] = get_seconds(irandom_range(1, 3));

@@ -4,7 +4,7 @@ myspeed = 3;
 randomise();
 
 jump = function () {
-    if (keyboard_check_pressed(vk_space)) {
+    if (keyboard_check_pressed(vk_space) or mouse_check_button_pressed(mb_left)) {
         // Muda o valor de dir, onde indica a direção que a imagem vai se posionar
         dir *= -1;
     }
@@ -39,7 +39,7 @@ get_sprite = function () {
 
 // Retorna posição x e a direção para item e clt
 get_position_and_dir = function () {
-    return [choose(24, 154), choose(-1, 1)]
+    return choose([24, 1], [154, -1]);
 }
 
 #endregion
